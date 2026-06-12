@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm an AI and Computer Vision researcher based in Italy 🇮🇹.
+I'm an AI and Computer Vision researcher based in Italy 🇮🇹🍝🍕.
 
 My interests lie at the intersection of machine learning, computer vision, multimodal intelligence, and neuro-symbolic reasoning. I enjoy building intelligent systems that combine research ideas with practical real-world applications.
 
